@@ -4,10 +4,9 @@
 - 🤔 I’m looking for help with google
 - 💬 Ask me about anything
 - ⚡ Fun fact: Beer :)
+- 📫 How to reach me: [npmjs](https://www.npmjs.com/~bany)
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-
 <!-- 
 ## 🔧 Technologies & Tools
 
