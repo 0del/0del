@@ -4,6 +4,6 @@
 
 ### What I'm working on 👨‍💻
 
-[ron](https://github.com/9bany/ron) - Application watcher.<br>
-[gjr](https://github.com/9bany/gjr) - Restarts a server when it crashes.
+[λ ron](https://github.com/9bany/ron) - Application watcher.<br>
+[λ gjr](https://github.com/9bany/gjr) - Restarts a server when it crashes.
 
