@@ -7,5 +7,5 @@
 
 [λ: rony-o](https://github.com/browng-io/rony-o)
 
-[λ: ron](https://github.com/9bany/ron) - Application watcher.<br>
+[ron](https://github.com/9bany/ron) - Application watcher.<br>
 
