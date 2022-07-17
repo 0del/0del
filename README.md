@@ -5,7 +5,7 @@
 
 ### What I'm working on 👨‍💻
 
-[λ: rony-o](https://github.com/browng-io/rony-o)
+[λ: rony-o](https://github.com/browng-io/rony-o).<br>
+[λ: learn](https://github.com/9bany/learn) - My learning log.<br>
 
 [ron](https://github.com/9bany/ron) - Application watcher.<br>
-
