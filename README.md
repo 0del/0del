@@ -8,3 +8,4 @@
 
 ### :books: Books
 - [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+- [LFU Caching](https://github.com/9bany/books/blob/master/lfu.pdf)
