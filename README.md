@@ -10,8 +10,8 @@
 - [swgit](https://github.com/9bany/git-switch): CLI - Easy using git with multiple accounts.
 
 #### Growing
-- :ledger: [Learning log](https://github.com/9bany/learn) 
-- :bookmark: [Leetcode](https://leetcode.com/9bany/)
+- [Learning log](https://github.com/9bany/learn) 
+- [Leetcode](https://leetcode.com/9bany/)
 
 ### :books: Books
 - [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
