@@ -4,6 +4,7 @@
 ### Working on 
 
 #### Opensources
+- [jira-issues-visualize](https://github.com/9bany/jira-issues-visualize): JIRA issues dependencies visualize
 - [docker-compose-rm](https://github.com/9bany/docker-compose-rm): docker-compose running with remote gist file.
 - [ron](https://github.com/9bany/ron): Application watcher and restart.
 - [swgit](https://github.com/9bany/git-switch): CLI - Easy using git with multiple accounts.
