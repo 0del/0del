@@ -9,6 +9,5 @@
 - [swgit](https://github.com/9bany/git-switch): CLI - Easy using git with multiple accounts.
 - [watchtower](https://github.com/9bany/watchtower): watch the local images and restart the containner was use one.
 
-#### Growing
-- [Learning log](https://github.com/9bany/learn) 
+#### More
 - [Leetcode](https://leetcode.com/9bany/)
