@@ -3,6 +3,5 @@
 
 - He/him.
 - User&Contributor. 
-- Love open source.
 - Work for free.
 - Looking for start up with more challenge.
