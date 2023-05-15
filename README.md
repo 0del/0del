@@ -5,6 +5,5 @@
 - λ: User&Contributor. 
 - λ: Looking for start up with more challenge.
 
-#### Wakatime
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
