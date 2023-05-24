@@ -5,17 +5,7 @@
 - λ: User&Contributor. 
 - λ: Looking for start up with more challenge.
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    18 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   41.11 % 
-Go                       8 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Python                   6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Bash                     3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Makefile                 2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-```
+<!--COMMENT START_SECTION:waka-->
 
 
-<!--END_SECTION:waka-->
+<!--COMMENT END_SECTION:waka-->
