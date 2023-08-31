@@ -5,4 +5,4 @@
 - [leetcode/9bany](https://leetcode.com/9bany)
 
 ### Contribution
-![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9bany&theme=defautl&hide_border=true)
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9bany&theme=default&hide_border=true)
